@@ -1,0 +1,1001 @@
+Date,Product,Region,Customer_Type,Quantity,Price,Discount,Revenue
+2024-12-24,Daycare,East,Guardians,10,948.19,0.22,7395.88
+2024-11-25,After School Care,West,Guardians,8,794.7,0.11,5658.26
+2024-10-08,After School Care,North,Parents,14,447.3,0.04,6011.71
+2024-06-18,Daycare,West,Parents,9,127.6,0.21,907.24
+2024-06-05,After School Care,West,Guardians,12,353.69,0.25,3183.21
+2024-07-26,Preschool,East,Parents,6,895.63,0.09,4890.14
+2024-09-03,Daycare,West,Guardians,16,101.57,0.03,1576.37
+2024-09-24,Daycare,East,Guardians,16,701.5,0.27,8193.52
+2024-04-02,After School Care,North,Guardians,10,752.06,0.01,7445.39
+2024-05-06,Daycare,South,Parents,10,987.28,0.28,7108.42
+2024-04-22,After School Care,North,Parents,1,945.34,0.05,898.07
+2024-08-09,Preschool,South,Guardians,13,305.8,0.17,3299.58
+2024-06-10,Preschool,West,Guardians,3,835.3,0.14,2155.07
+2024-12-18,Preschool,North,Parents,12,689.86,0.18,6788.22
+2024-08-01,Daycare,South,Parents,4,962.89,0.09,3504.92
+2024-09-09,Preschool,East,Parents,12,928.69,0.0,11144.28
+2024-12-10,Daycare,East,Guardians,5,375.04,0.03,1818.94
+2024-12-10,Daycare,North,Guardians,9,903.1,0.25,6095.92
+2024-09-08,Daycare,North,Guardians,11,833.03,0.2,7330.66
+2024-03-03,After School Care,North,Parents,14,213.41,0.19,2420.07
+2024-08-28,After School Care,North,Guardians,9,276.13,0.24,1888.73
+2024-05-22,After School Care,North,Guardians,16,200.75,0.14,2762.32
+2024-02-01,After School Care,North,Parents,8,630.62,0.04,4843.16
+2024-02-27,Daycare,South,Parents,7,393.34,0.18,2257.77
+2024-10-03,Preschool,South,Guardians,9,812.97,0.14,6292.39
+2024-10-09,Daycare,East,Guardians,10,350.01,0.18,2870.08
+2024-05-22,Daycare,North,Parents,3,690.39,0.03,2009.03
+2024-02-02,Daycare,West,Guardians,7,631.83,0.1,3980.53
+2024-07-17,After School Care,East,Guardians,5,656.0,0.18,2689.6
+2024-05-20,Preschool,South,Parents,7,708.85,0.06,4664.23
+2024-07-30,After School Care,North,Parents,9,134.24,0.2,966.53
+2024-09-16,Preschool,West,Parents,14,240.42,0.03,3264.9
+2024-03-25,Daycare,West,Guardians,15,293.09,0.19,3561.04
+2024-04-27,After School Care,West,Parents,11,707.49,0.04,7471.09
+2024-05-01,Preschool,North,Guardians,6,110.39,0.04,635.85
+2024-01-17,Preschool,East,Guardians,7,517.55,0.17,3006.97
+2024-09-29,Daycare,East,Parents,12,500.7,0.24,4566.38
+2024-05-02,Daycare,South,Guardians,3,385.47,0.25,867.31
+2024-02-03,Preschool,North,Guardians,9,648.87,0.27,4263.08
+2024-11-14,Preschool,East,Guardians,6,237.09,0.08,1308.74
+2024-02-17,After School Care,South,Parents,20,233.72,0.07,4347.19
+2024-01-09,After School Care,South,Guardians,19,489.82,0.1,8375.92
+2024-01-25,Preschool,South,Guardians,9,876.94,0.13,6866.44
+2024-02-21,After School Care,South,Guardians,16,898.9,0.19,11649.74
+2024-05-19,Daycare,East,Guardians,17,938.67,0.12,14042.5
+2024-06-01,Daycare,East,Guardians,14,652.75,0.27,6671.1
+2024-10-13,Preschool,South,Parents,7,265.09,0.24,1410.28
+2024-04-03,Preschool,South,Parents,6,393.59,0.2,1889.23
+2024-08-31,Daycare,West,Parents,15,697.7,0.13,9104.98
+2024-04-28,Daycare,East,Guardians,9,659.33,0.14,5103.21
+2024-10-27,Daycare,North,Parents,3,503.21,0.16,1268.09
+2024-12-24,After School Care,West,Guardians,13,994.14,0.03,12536.11
+2024-02-17,Preschool,East,Parents,2,731.64,0.03,1419.38
+2024-07-17,Preschool,West,Parents,20,848.68,0.26,12560.46
+2024-09-06,Daycare,West,Parents,4,680.08,0.3,1904.22
+2024-01-11,Daycare,East,Parents,19,593.58,0.28,8120.17
+2024-01-31,After School Care,North,Parents,14,105.91,0.13,1289.98
+2024-02-19,Preschool,West,Guardians,13,378.27,0.15,4179.88
+2024-11-02,Preschool,North,Guardians,17,450.61,0.15,6511.31
+2024-11-16,Preschool,East,Parents,14,482.31,0.26,4996.73
+2024-10-06,Daycare,North,Parents,19,886.38,0.22,13136.15
+2024-09-22,Daycare,North,Guardians,1,274.94,0.01,272.19
+2024-01-10,After School Care,North,Guardians,12,159.14,0.0,1909.68
+2024-03-04,Preschool,West,Guardians,9,423.09,0.05,3617.42
+2024-11-11,After School Care,East,Guardians,5,269.35,0.02,1319.82
+2024-01-30,Preschool,West,Parents,18,870.18,0.14,13470.39
+2024-11-25,Preschool,East,Parents,5,241.89,0.2,967.56
+2024-09-28,Daycare,East,Guardians,20,686.41,0.25,10296.15
+2024-06-06,Preschool,East,Parents,13,606.66,0.27,5757.2
+2024-01-26,Daycare,East,Guardians,19,132.54,0.03,2442.71
+2024-04-12,Daycare,West,Parents,4,814.23,0.09,2963.8
+2024-02-15,Preschool,North,Guardians,19,548.2,0.26,7707.69
+2024-06-13,Preschool,East,Parents,3,266.43,0.02,783.3
+2024-04-06,After School Care,West,Parents,17,714.5,0.28,8745.48
+2024-09-08,Preschool,East,Guardians,14,956.4,0.15,11381.16
+2024-05-05,Daycare,North,Guardians,10,828.45,0.04,7953.12
+2024-11-21,After School Care,South,Parents,20,199.23,0.26,2948.6
+2024-05-18,Daycare,North,Guardians,1,771.43,0.28,555.43
+2024-11-24,Preschool,West,Guardians,5,816.46,0.16,3429.13
+2024-07-19,Preschool,West,Parents,8,730.98,0.07,5438.49
+2024-07-20,Preschool,East,Parents,3,381.5,0.03,1110.16
+2024-10-12,Daycare,South,Parents,12,874.86,0.23,8083.71
+2024-11-06,After School Care,West,Parents,14,364.24,0.2,4079.49
+2024-04-07,Daycare,West,Parents,17,598.69,0.27,7429.74
+2024-12-15,After School Care,West,Parents,2,223.68,0.26,331.05
+2024-03-25,After School Care,East,Guardians,16,712.23,0.16,9572.37
+2024-07-01,After School Care,South,Guardians,12,201.26,0.22,1883.79
+2024-11-30,Daycare,North,Parents,5,328.25,0.03,1592.01
+2024-08-03,Preschool,West,Parents,2,611.42,0.26,904.9
+2024-12-21,Preschool,East,Parents,2,343.13,0.04,658.81
+2024-04-08,Preschool,North,Parents,2,864.41,0.26,1279.33
+2024-07-29,Daycare,North,Parents,9,168.49,0.28,1091.82
+2024-01-12,After School Care,West,Guardians,13,562.61,0.16,6143.7
+2024-11-25,Preschool,East,Parents,7,740.5,0.17,4302.3
+2024-11-17,After School Care,West,Parents,5,864.83,0.17,3589.04
+2024-01-30,After School Care,East,Guardians,1,370.91,0.14,318.98
+2024-12-26,Daycare,South,Guardians,7,645.15,0.12,3974.12
+2024-12-28,Daycare,South,Guardians,3,491.95,0.17,1224.96
+2024-08-13,Daycare,East,Guardians,2,381.1,0.14,655.49
+2024-04-16,Daycare,North,Guardians,11,181.49,0.02,1956.46
+2024-10-07,Preschool,South,Parents,4,385.93,0.22,1204.1
+2024-06-28,After School Care,South,Parents,5,661.61,0.12,2911.08
+2024-07-18,Preschool,East,Guardians,6,957.82,0.16,4827.41
+2024-04-03,Preschool,East,Parents,9,930.13,0.05,7952.61
+2024-03-28,Daycare,South,Guardians,2,326.4,0.0,652.8
+2024-01-08,Daycare,South,Guardians,1,193.88,0.25,145.41
+2024-02-07,Daycare,South,Guardians,10,427.68,0.1,3849.12
+2024-08-10,Daycare,West,Parents,1,848.31,0.04,814.38
+2024-08-10,Preschool,West,Guardians,1,928.53,0.02,909.96
+2024-01-23,Preschool,West,Guardians,11,649.77,0.01,7076.0
+2024-06-23,After School Care,South,Guardians,9,441.24,0.27,2898.95
+2024-07-08,After School Care,East,Guardians,20,434.51,0.23,6691.45
+2024-10-27,Preschool,East,Parents,9,167.81,0.13,1313.95
+2024-02-09,Preschool,East,Guardians,7,381.65,0.24,2030.38
+2024-07-21,Preschool,West,Guardians,4,361.47,0.14,1243.46
+2024-06-12,Preschool,East,Parents,15,631.4,0.17,7860.93
+2024-03-28,Daycare,West,Parents,18,618.16,0.26,8233.89
+2024-05-22,Preschool,North,Parents,7,887.29,0.16,5217.27
+2024-01-26,After School Care,South,Guardians,17,739.25,0.11,11184.85
+2024-02-01,After School Care,South,Guardians,14,760.53,0.01,10540.95
+2024-02-15,Daycare,West,Parents,14,554.84,0.25,5825.82
+2024-04-01,After School Care,West,Guardians,3,433.03,0.28,935.34
+2024-07-13,After School Care,West,Guardians,2,359.8,0.14,618.86
+2024-08-02,Preschool,South,Guardians,7,763.16,0.25,4006.59
+2024-10-14,After School Care,West,Parents,3,910.6,0.09,2485.94
+2024-04-30,Preschool,North,Parents,14,882.48,0.04,11860.53
+2024-07-09,After School Care,South,Guardians,16,133.96,0.08,1971.89
+2024-11-13,After School Care,East,Parents,8,729.33,0.12,5134.48
+2024-01-02,After School Care,West,Parents,4,131.61,0.09,479.06
+2024-08-01,After School Care,West,Guardians,14,685.11,0.23,7385.49
+2024-11-01,Daycare,West,Parents,2,507.66,0.02,995.01
+2024-08-09,After School Care,North,Guardians,10,258.74,0.21,2044.05
+2024-02-04,Daycare,East,Guardians,4,835.89,0.18,2741.72
+2024-03-08,After School Care,West,Parents,2,970.19,0.03,1882.17
+2024-06-02,Preschool,East,Guardians,4,486.48,0.18,1595.65
+2024-01-03,Daycare,West,Guardians,4,340.34,0.18,1116.32
+2024-04-28,Daycare,West,Guardians,9,270.99,0.21,1926.74
+2024-11-18,Daycare,West,Guardians,4,506.8,0.11,1804.21
+2024-01-21,Daycare,North,Guardians,16,833.25,0.14,11465.52
+2024-10-23,Preschool,South,Parents,5,577.17,0.07,2683.84
+2024-04-19,Daycare,East,Guardians,11,368.29,0.14,3484.02
+2024-11-10,After School Care,East,Guardians,13,679.63,0.05,8393.43
+2024-12-05,After School Care,South,Guardians,11,656.67,0.02,7078.9
+2024-08-24,Preschool,West,Guardians,11,485.89,0.08,4917.21
+2024-09-23,Daycare,East,Parents,11,207.22,0.07,2119.86
+2024-05-22,Preschool,East,Parents,19,248.37,0.24,3586.46
+2024-06-17,Daycare,East,Parents,12,144.19,0.04,1661.07
+2024-12-29,After School Care,East,Guardians,5,724.01,0.2,2896.04
+2024-07-20,After School Care,East,Parents,10,961.64,0.05,9135.58
+2024-09-16,Preschool,South,Guardians,2,166.33,0.22,259.47
+2024-07-15,After School Care,West,Parents,11,961.78,0.1,9521.62
+2024-06-19,After School Care,West,Parents,8,955.07,0.06,7182.13
+2024-11-28,Preschool,North,Parents,2,658.93,0.06,1238.79
+2024-07-08,Daycare,South,Parents,1,247.58,0.09,225.3
+2024-12-04,Daycare,East,Parents,19,606.57,0.22,8989.37
+2024-07-12,Preschool,West,Guardians,1,604.6,0.1,544.14
+2024-03-20,Preschool,South,Parents,14,522.08,0.14,6285.84
+2024-12-04,Daycare,South,Parents,10,625.16,0.03,6064.05
+2024-08-03,Daycare,South,Parents,11,991.77,0.29,7745.72
+2024-06-05,After School Care,North,Parents,6,682.72,0.09,3727.65
+2024-01-23,After School Care,East,Guardians,8,340.0,0.13,2366.4
+2024-10-07,Preschool,West,Parents,2,131.25,0.01,259.88
+2024-10-19,Preschool,West,Guardians,9,976.32,0.04,8435.4
+2024-03-07,Preschool,North,Guardians,6,665.22,0.11,3552.27
+2024-07-16,Preschool,North,Guardians,15,536.08,0.14,6915.43
+2024-08-14,After School Care,West,Parents,2,971.11,0.04,1864.53
+2024-07-10,After School Care,South,Parents,2,857.77,0.28,1235.19
+2024-11-04,After School Care,South,Parents,16,259.87,0.29,2952.12
+2024-11-11,Preschool,East,Parents,3,747.18,0.04,2151.88
+2024-08-30,After School Care,North,Parents,5,508.51,0.13,2212.02
+2024-12-31,Daycare,North,Guardians,3,754.11,0.11,2013.47
+2024-09-21,Daycare,East,Guardians,7,124.99,0.26,647.45
+2024-02-02,After School Care,West,Guardians,17,336.14,0.19,4628.65
+2024-03-23,After School Care,North,Parents,8,283.64,0.15,1928.75
+2024-03-14,After School Care,East,Guardians,20,298.52,0.28,4298.69
+2024-03-03,After School Care,West,Parents,13,436.03,0.02,5555.02
+2024-08-09,Daycare,West,Guardians,8,607.75,0.15,4132.7
+2024-05-24,After School Care,North,Parents,12,188.63,0.18,1856.12
+2024-02-08,Daycare,North,Parents,18,975.77,0.07,16334.39
+2024-09-15,Preschool,East,Guardians,5,965.3,0.15,4102.52
+2024-03-29,Daycare,West,Guardians,19,201.19,0.08,3516.8
+2024-04-02,After School Care,East,Guardians,9,493.32,0.16,3729.5
+2024-03-11,Daycare,North,Parents,8,245.28,0.23,1510.92
+2024-11-26,Preschool,West,Guardians,11,543.66,0.11,5322.43
+2024-06-14,Daycare,North,Guardians,2,691.84,0.08,1272.99
+2024-07-21,After School Care,South,Parents,4,343.74,0.06,1292.46
+2024-04-04,Daycare,North,Guardians,19,377.98,0.26,5314.4
+2024-12-09,After School Care,North,Guardians,12,785.67,0.17,7825.27
+2024-12-19,Preschool,North,Parents,19,102.29,0.03,1885.2
+2024-05-31,After School Care,South,Guardians,2,329.54,0.2,527.26
+2024-05-02,After School Care,North,Parents,16,745.34,0.26,8824.83
+2024-11-07,Preschool,North,Parents,19,170.79,0.12,2855.61
+2024-12-17,Preschool,South,Parents,4,800.15,0.06,3008.56
+2024-12-25,After School Care,West,Guardians,13,703.49,0.22,7133.39
+2024-10-20,After School Care,West,Guardians,5,662.27,0.16,2781.53
+2024-03-25,After School Care,South,Guardians,8,562.08,0.28,3237.58
+2024-07-18,After School Care,South,Guardians,14,254.96,0.02,3498.05
+2024-04-28,After School Care,West,Guardians,16,549.53,0.05,8352.86
+2024-07-13,Preschool,West,Guardians,18,164.14,0.19,2393.16
+2024-03-12,After School Care,South,Guardians,16,970.32,0.21,12264.84
+2024-10-31,After School Care,West,Parents,13,287.59,0.09,3402.19
+2024-01-04,After School Care,South,Parents,13,705.57,0.27,6695.86
+2024-05-31,Preschool,North,Parents,5,502.47,0.24,1909.39
+2024-09-17,After School Care,South,Parents,13,360.89,0.28,3377.93
+2024-10-05,Daycare,West,Parents,15,187.16,0.01,2779.33
+2024-03-05,Daycare,North,Parents,1,972.13,0.12,855.47
+2024-12-25,After School Care,East,Parents,2,743.87,0.05,1413.35
+2024-05-03,Preschool,South,Parents,10,333.5,0.19,2701.35
+2024-07-09,Daycare,East,Parents,16,642.45,0.25,7709.4
+2024-10-12,Daycare,South,Parents,7,498.03,0.29,2475.21
+2024-11-29,After School Care,North,Guardians,6,289.98,0.26,1287.51
+2024-09-24,Daycare,West,Parents,7,828.72,0.28,4176.75
+2024-12-25,Preschool,West,Guardians,6,479.64,0.12,2532.5
+2024-05-23,Daycare,South,Parents,16,813.8,0.25,9765.6
+2024-01-07,Daycare,West,Parents,15,955.73,0.08,13189.07
+2024-01-09,Preschool,North,Parents,13,833.19,0.12,9531.69
+2024-05-08,Daycare,West,Guardians,9,535.76,0.17,4002.13
+2024-07-20,Preschool,North,Parents,18,457.91,0.12,7253.29
+2024-06-29,After School Care,North,Guardians,2,539.42,0.22,841.5
+2024-11-21,After School Care,North,Parents,2,682.34,0.29,968.92
+2024-11-25,Preschool,West,Guardians,1,131.89,0.15,112.11
+2024-11-23,After School Care,South,Guardians,18,704.05,0.13,11025.42
+2024-11-02,Preschool,West,Guardians,5,493.45,0.02,2417.9
+2024-02-04,After School Care,North,Parents,4,896.89,0.14,3085.3
+2024-03-01,Daycare,East,Guardians,9,622.71,0.1,5043.95
+2024-07-26,Preschool,North,Parents,19,211.17,0.13,3490.64
+2024-11-13,Preschool,South,Parents,2,935.42,0.02,1833.42
+2024-02-15,Preschool,East,Parents,9,932.81,0.07,7807.62
+2024-05-17,Preschool,East,Parents,17,231.65,0.0,3938.05
+2024-07-26,Preschool,North,Parents,18,846.36,0.22,11882.89
+2024-02-12,After School Care,South,Guardians,2,917.83,0.3,1284.96
+2024-05-02,Daycare,East,Guardians,12,267.62,0.26,2376.47
+2024-07-16,After School Care,South,Guardians,16,861.79,0.22,10755.14
+2024-03-14,Daycare,East,Parents,8,699.18,0.28,4027.28
+2024-11-29,Daycare,South,Guardians,14,981.91,0.17,11409.79
+2024-06-04,Daycare,South,Parents,1,909.55,0.29,645.78
+2024-01-18,After School Care,East,Parents,14,541.83,0.19,6144.35
+2024-07-05,After School Care,East,Guardians,3,895.58,0.2,2149.39
+2024-03-07,Daycare,West,Parents,1,947.0,0.28,681.84
+2024-11-15,After School Care,North,Parents,20,264.3,0.16,4440.24
+2024-01-31,Daycare,West,Guardians,3,241.51,0.22,565.13
+2024-06-14,Preschool,North,Parents,4,569.06,0.07,2116.9
+2024-07-12,Preschool,West,Guardians,4,596.56,0.2,1908.99
+2024-09-12,After School Care,North,Parents,11,992.6,0.02,10700.23
+2024-05-26,Daycare,South,Parents,5,112.99,0.02,553.65
+2024-08-06,After School Care,East,Guardians,9,806.56,0.15,6170.18
+2024-07-03,After School Care,East,Parents,10,106.14,0.14,912.8
+2024-09-02,After School Care,South,Guardians,19,336.13,0.13,5556.23
+2024-09-21,Daycare,East,Parents,4,681.59,0.05,2590.04
+2024-10-16,Daycare,West,Guardians,12,484.9,0.22,4538.66
+2024-01-15,After School Care,West,Parents,12,798.16,0.01,9482.14
+2024-12-17,Preschool,West,Guardians,8,864.96,0.06,6504.5
+2024-04-09,Preschool,East,Guardians,18,373.2,0.21,5306.9
+2024-09-27,After School Care,East,Guardians,16,910.5,0.22,11363.04
+2024-11-25,Preschool,North,Parents,9,582.0,0.22,4085.64
+2024-11-03,After School Care,South,Guardians,18,785.31,0.25,10601.68
+2024-11-03,Preschool,South,Guardians,12,542.69,0.23,5014.46
+2024-12-14,Preschool,East,Parents,19,702.88,0.0,13354.72
+2024-02-17,Preschool,North,Guardians,10,270.01,0.13,2349.09
+2024-01-22,Preschool,South,Parents,10,615.3,0.24,4676.28
+2024-01-10,After School Care,East,Guardians,5,165.36,0.02,810.26
+2024-03-30,Preschool,South,Guardians,19,565.93,0.25,8064.5
+2024-04-26,Daycare,West,Guardians,11,980.6,0.03,10463.0
+2024-09-07,Daycare,South,Parents,15,287.49,0.09,3924.24
+2024-03-18,Daycare,South,Parents,20,248.62,0.24,3779.02
+2024-08-30,Preschool,East,Guardians,14,990.57,0.22,10817.02
+2024-01-03,Preschool,East,Parents,8,212.79,0.2,1361.86
+2024-11-11,After School Care,East,Parents,7,603.22,0.15,3589.16
+2024-03-23,After School Care,North,Parents,2,766.13,0.02,1501.61
+2024-02-10,After School Care,North,Guardians,8,665.91,0.27,3888.91
+2024-04-09,After School Care,East,Parents,15,468.38,0.24,5339.53
+2024-11-03,After School Care,West,Guardians,5,498.76,0.01,2468.86
+2024-03-07,Preschool,South,Parents,14,600.54,0.17,6978.27
+2024-05-27,After School Care,West,Parents,1,596.72,0.18,489.31
+2024-07-23,Daycare,East,Parents,2,811.45,0.14,1395.69
+2024-03-07,After School Care,North,Guardians,15,792.44,0.23,9152.68
+2024-09-27,Daycare,East,Guardians,19,370.41,0.19,5700.61
+2024-04-30,Daycare,West,Parents,6,913.04,0.07,5094.76
+2024-11-17,Preschool,East,Parents,7,934.43,0.17,5429.04
+2024-12-20,Daycare,South,Parents,4,610.36,0.06,2294.95
+2024-05-14,Preschool,East,Parents,11,423.83,0.2,3729.7
+2024-10-18,Preschool,West,Guardians,1,582.29,0.01,576.47
+2024-12-12,Preschool,North,Parents,6,808.26,0.09,4413.1
+2024-03-08,Daycare,South,Guardians,6,671.45,0.02,3948.13
+2024-03-23,Preschool,North,Parents,15,353.78,0.03,5147.5
+2024-10-01,After School Care,North,Guardians,3,575.29,0.05,1639.58
+2024-09-06,After School Care,South,Guardians,3,655.03,0.12,1729.28
+2024-05-20,Preschool,North,Parents,9,892.39,0.29,5702.37
+2024-08-06,Preschool,South,Parents,12,774.56,0.11,8272.3
+2024-12-25,Preschool,West,Guardians,19,831.81,0.25,11853.29
+2024-06-29,Daycare,South,Guardians,13,879.42,0.29,8117.05
+2024-12-28,Daycare,North,Parents,15,373.48,0.11,4985.96
+2024-05-26,Preschool,East,Parents,13,303.07,0.26,2915.53
+2024-12-08,After School Care,South,Guardians,12,376.56,0.25,3389.04
+2024-08-18,After School Care,West,Guardians,18,938.29,0.04,16213.65
+2024-08-18,Preschool,South,Parents,4,410.71,0.09,1494.98
+2024-08-01,Preschool,South,Guardians,6,512.72,0.29,2184.19
+2024-01-06,Daycare,South,Parents,8,700.76,0.29,3980.32
+2024-06-26,After School Care,East,Guardians,4,175.82,0.12,618.89
+2024-02-21,After School Care,East,Guardians,11,615.42,0.21,5348.0
+2024-05-17,Preschool,West,Guardians,8,579.4,0.29,3290.99
+2024-08-25,Preschool,West,Guardians,7,488.28,0.06,3212.88
+2024-06-07,Preschool,North,Guardians,7,402.23,0.25,2111.71
+2024-06-24,After School Care,East,Guardians,15,956.81,0.22,11194.68
+2024-10-14,Daycare,East,Guardians,6,894.1,0.13,4667.2
+2024-06-22,After School Care,East,Guardians,9,992.76,0.03,8666.79
+2024-03-30,After School Care,North,Parents,20,751.21,0.08,13822.26
+2024-01-16,Daycare,East,Parents,16,730.24,0.05,11099.65
+2024-12-08,Preschool,West,Parents,10,946.85,0.23,7290.74
+2024-08-20,After School Care,South,Guardians,6,335.9,0.14,1733.24
+2024-08-11,After School Care,North,Parents,18,683.81,0.03,11939.32
+2024-09-15,After School Care,West,Parents,8,613.58,0.26,3632.39
+2024-06-17,After School Care,West,Parents,10,365.74,0.26,2706.48
+2024-02-06,After School Care,West,Parents,15,514.75,0.04,7412.4
+2024-02-27,After School Care,East,Parents,9,973.94,0.17,7275.33
+2024-04-04,Preschool,North,Guardians,4,275.44,0.23,848.36
+2024-04-21,Daycare,South,Parents,18,905.18,0.09,14826.85
+2024-03-10,Preschool,East,Guardians,6,897.9,0.16,4525.42
+2024-01-09,Preschool,East,Parents,16,753.67,0.24,9164.63
+2024-05-06,After School Care,West,Parents,16,619.89,0.29,7041.95
+2024-12-22,After School Care,South,Guardians,16,434.35,0.09,6324.14
+2024-09-05,Daycare,West,Parents,3,651.96,0.19,1584.26
+2024-02-15,Preschool,North,Parents,11,155.79,0.27,1250.99
+2024-11-10,Preschool,East,Guardians,20,487.16,0.23,7502.26
+2024-04-09,Preschool,North,Parents,16,230.13,0.22,2872.02
+2024-01-08,Daycare,East,Parents,9,930.11,0.08,7701.31
+2024-08-15,Daycare,East,Guardians,15,492.05,0.09,6716.48
+2024-10-30,Preschool,East,Parents,20,998.79,0.01,19776.04
+2024-06-21,Daycare,East,Guardians,3,563.62,0.27,1234.33
+2024-10-26,Daycare,North,Parents,10,411.68,0.09,3746.29
+2024-08-13,Daycare,West,Parents,5,138.94,0.09,632.18
+2024-04-21,After School Care,South,Guardians,2,969.96,0.15,1648.93
+2024-11-27,Preschool,East,Guardians,11,575.65,0.16,5319.01
+2024-01-16,Daycare,North,Guardians,7,951.91,0.16,5597.23
+2024-05-26,Daycare,East,Guardians,13,441.71,0.27,4191.83
+2024-09-07,Preschool,West,Guardians,12,944.54,0.09,10314.38
+2024-01-26,Daycare,East,Guardians,9,711.59,0.01,6340.27
+2024-07-02,After School Care,East,Parents,13,210.46,0.1,2462.38
+2024-12-19,After School Care,West,Parents,6,787.59,0.14,4063.96
+2024-06-08,After School Care,West,Parents,15,249.92,0.3,2624.16
+2024-07-09,After School Care,West,Parents,18,418.93,0.06,7088.3
+2024-02-05,Preschool,South,Parents,12,406.56,0.28,3512.68
+2024-01-27,After School Care,South,Parents,9,639.46,0.23,4431.46
+2024-12-12,After School Care,North,Parents,3,915.01,0.08,2525.43
+2024-09-14,Daycare,West,Guardians,20,884.14,0.23,13615.76
+2024-05-07,Preschool,East,Guardians,16,732.53,0.12,10314.02
+2024-08-05,Daycare,South,Parents,4,741.8,0.16,2492.45
+2024-04-16,Preschool,North,Guardians,9,993.14,0.01,8848.88
+2024-03-28,Preschool,North,Guardians,2,840.95,0.0,1681.9
+2024-10-05,Preschool,North,Parents,12,304.25,0.16,3066.84
+2024-01-15,After School Care,East,Parents,9,769.19,0.3,4845.9
+2024-11-01,Preschool,South,Parents,9,357.39,0.12,2830.53
+2024-02-22,Preschool,North,Parents,5,310.82,0.17,1289.9
+2024-10-10,Daycare,East,Guardians,8,973.97,0.01,7713.84
+2024-04-03,Preschool,East,Guardians,12,518.93,0.18,5106.27
+2024-01-27,Preschool,East,Parents,17,762.37,0.12,11405.06
+2024-08-18,After School Care,East,Parents,19,774.52,0.24,11184.07
+2024-03-16,After School Care,East,Guardians,15,628.58,0.16,7920.11
+2024-12-10,After School Care,South,Parents,11,215.8,0.04,2278.85
+2024-10-30,Preschool,South,Parents,2,116.39,0.12,204.85
+2024-05-20,After School Care,West,Parents,3,360.35,0.14,929.7
+2024-03-15,Preschool,North,Parents,2,623.81,0.08,1147.81
+2024-10-09,Preschool,North,Guardians,18,820.21,0.21,11663.39
+2024-01-14,Daycare,West,Parents,9,465.09,0.04,4018.38
+2024-09-12,Daycare,North,Guardians,7,925.66,0.21,5118.9
+2024-08-18,Daycare,West,Parents,8,837.93,0.0,6703.44
+2024-11-05,Preschool,South,Parents,16,476.32,0.06,7163.85
+2024-10-14,After School Care,South,Guardians,1,145.12,0.24,110.29
+2024-01-30,After School Care,North,Parents,9,753.39,0.26,5017.58
+2024-10-29,Preschool,West,Parents,14,341.97,0.05,4548.2
+2024-03-03,Daycare,East,Guardians,6,594.62,0.22,2782.82
+2024-02-18,Preschool,South,Parents,11,177.12,0.08,1792.45
+2024-08-21,Daycare,North,Guardians,3,258.67,0.28,558.73
+2024-04-26,After School Care,East,Parents,17,858.81,0.04,14015.78
+2024-07-20,Preschool,East,Parents,17,180.47,0.23,2362.35
+2024-02-10,Preschool,North,Guardians,18,738.05,0.22,10362.22
+2024-07-05,After School Care,West,Guardians,14,275.89,0.27,2819.6
+2024-04-11,Daycare,East,Guardians,7,229.04,0.16,1346.76
+2024-02-08,After School Care,North,Guardians,20,495.34,0.3,6934.76
+2024-03-13,Daycare,West,Guardians,4,647.28,0.3,1812.38
+2024-12-04,Daycare,North,Guardians,6,485.68,0.2,2331.26
+2024-12-31,Daycare,North,Guardians,2,701.54,0.08,1290.83
+2024-07-23,After School Care,North,Parents,14,961.88,0.04,12927.67
+2024-09-17,After School Care,North,Parents,14,704.47,0.14,8481.82
+2024-11-17,Daycare,South,Guardians,12,663.21,0.12,7003.5
+2024-12-01,Preschool,East,Parents,1,935.65,0.09,851.44
+2024-03-04,Daycare,West,Parents,4,882.38,0.15,3000.09
+2024-08-07,After School Care,South,Parents,3,403.77,0.01,1199.2
+2024-05-28,After School Care,West,Parents,16,174.41,0.13,2427.79
+2024-05-04,After School Care,North,Guardians,17,443.26,0.27,5500.86
+2024-11-03,After School Care,West,Parents,12,148.06,0.15,1510.21
+2024-05-22,After School Care,West,Parents,13,747.4,0.27,7092.83
+2024-07-06,Daycare,South,Guardians,20,348.56,0.03,6762.06
+2024-09-17,Daycare,North,Parents,19,745.05,0.29,10050.72
+2024-03-19,Preschool,West,Parents,7,526.17,0.2,2946.55
+2024-02-22,After School Care,South,Parents,11,292.95,0.1,2900.2
+2024-06-12,Preschool,East,Parents,13,281.48,0.01,3622.65
+2024-04-22,Daycare,West,Parents,19,994.42,0.2,15115.18
+2024-08-18,Daycare,South,Parents,15,793.98,0.04,11433.31
+2024-06-08,Preschool,West,Parents,8,141.02,0.07,1049.19
+2024-12-01,Preschool,East,Parents,13,709.55,0.1,8301.74
+2024-08-20,Daycare,South,Parents,16,335.47,0.19,4347.69
+2024-07-17,Preschool,West,Guardians,4,319.44,0.08,1175.54
+2024-10-29,Daycare,West,Guardians,1,889.94,0.04,854.34
+2024-04-21,Preschool,West,Guardians,12,521.44,0.07,5819.27
+2024-12-14,Preschool,West,Guardians,11,314.89,0.16,2909.58
+2024-10-31,Preschool,West,Parents,1,845.96,0.24,642.93
+2024-04-24,After School Care,North,Guardians,12,225.05,0.04,2592.58
+2024-02-16,After School Care,West,Parents,15,214.81,0.22,2513.28
+2024-06-21,Daycare,East,Guardians,9,340.1,0.14,2632.37
+2024-05-19,Preschool,South,Guardians,14,481.38,0.01,6671.93
+2024-04-13,Preschool,South,Guardians,3,599.84,0.24,1367.64
+2024-09-23,After School Care,North,Guardians,6,572.1,0.16,2883.38
+2024-07-03,After School Care,West,Parents,17,674.52,0.13,9976.15
+2024-12-25,After School Care,East,Parents,4,623.74,0.09,2270.41
+2024-09-26,After School Care,South,Parents,12,698.17,0.28,6032.19
+2024-02-25,Daycare,North,Parents,8,800.86,0.08,5894.33
+2024-11-11,After School Care,South,Guardians,3,715.92,0.29,1524.91
+2024-12-26,Preschool,South,Guardians,16,213.38,0.05,3243.38
+2024-04-28,Preschool,East,Guardians,8,535.99,0.23,3301.7
+2024-12-04,Preschool,North,Guardians,4,667.04,0.18,2187.89
+2024-01-31,Daycare,North,Guardians,15,538.56,0.19,6543.5
+2024-02-02,Daycare,East,Guardians,10,212.64,0.01,2105.14
+2024-06-06,Daycare,East,Guardians,4,212.93,0.27,621.76
+2024-08-20,After School Care,North,Guardians,13,383.29,0.16,4185.53
+2024-07-07,Daycare,North,Guardians,6,865.68,0.29,3687.8
+2024-11-06,Daycare,East,Guardians,16,468.99,0.29,5327.73
+2024-04-02,Preschool,South,Parents,2,488.41,0.04,937.75
+2024-06-18,Preschool,East,Guardians,14,780.28,0.25,8192.94
+2024-02-10,After School Care,East,Guardians,18,677.4,0.28,8779.1
+2024-08-29,Daycare,East,Parents,16,401.28,0.06,6035.25
+2024-10-21,Preschool,South,Parents,4,586.22,0.11,2086.94
+2024-01-02,After School Care,East,Guardians,16,411.03,0.27,4800.83
+2024-02-07,After School Care,South,Guardians,16,636.61,0.1,9167.18
+2024-10-02,Preschool,West,Parents,18,171.95,0.23,2383.23
+2024-04-05,Daycare,South,Parents,16,417.01,0.09,6071.67
+2024-08-19,Daycare,North,Parents,5,572.77,0.27,2090.61
+2024-03-30,Daycare,South,Parents,6,728.96,0.15,3717.7
+2024-01-03,After School Care,South,Parents,8,170.57,0.29,968.84
+2024-03-07,Daycare,East,Parents,3,183.86,0.29,391.62
+2024-08-20,Daycare,North,Parents,14,325.92,0.03,4425.99
+2024-03-17,Preschool,East,Parents,12,135.35,0.25,1218.15
+2024-09-30,After School Care,East,Parents,13,157.15,0.02,2002.09
+2024-04-14,Daycare,South,Parents,18,491.62,0.19,7167.82
+2024-03-05,After School Care,East,Guardians,20,751.07,0.15,12768.19
+2024-06-21,Preschool,South,Parents,2,419.58,0.21,662.94
+2024-04-20,Preschool,North,Parents,9,470.0,0.02,4145.4
+2024-06-15,After School Care,North,Guardians,13,481.32,0.2,5005.73
+2024-09-23,Daycare,North,Guardians,9,772.12,0.27,5072.83
+2024-01-27,Preschool,West,Parents,7,615.12,0.26,3186.32
+2024-10-28,After School Care,South,Parents,4,507.75,0.03,1970.07
+2024-09-04,Daycare,South,Parents,6,115.8,0.03,673.96
+2024-12-11,Preschool,South,Parents,14,556.26,0.22,6074.36
+2024-08-12,After School Care,West,Guardians,11,469.83,0.24,3927.78
+2024-07-19,Preschool,South,Parents,7,501.72,0.02,3441.8
+2024-10-15,After School Care,West,Parents,4,177.37,0.22,553.39
+2024-11-26,After School Care,West,Guardians,19,464.95,0.14,7597.28
+2024-09-03,After School Care,East,Parents,9,440.69,0.08,3648.91
+2024-02-27,Preschool,East,Parents,13,435.41,0.01,5603.73
+2024-05-30,Preschool,East,Guardians,8,481.19,0.19,3118.11
+2024-01-10,Daycare,North,Guardians,20,948.24,0.26,14033.95
+2024-09-18,Daycare,West,Parents,12,535.31,0.02,6295.25
+2024-02-02,After School Care,East,Guardians,6,796.97,0.28,3442.91
+2024-08-02,After School Care,North,Parents,1,671.35,0.05,637.78
+2024-01-14,After School Care,West,Guardians,11,567.04,0.22,4865.2
+2024-02-26,Daycare,North,Guardians,10,325.49,0.2,2603.92
+2024-02-05,Preschool,West,Parents,12,271.71,0.12,2869.26
+2024-09-20,Daycare,East,Guardians,6,808.57,0.18,3978.16
+2024-09-17,Preschool,North,Parents,11,201.59,0.04,2128.79
+2024-01-08,After School Care,South,Parents,17,184.91,0.1,2829.12
+2024-04-09,Preschool,South,Guardians,2,693.39,0.1,1248.1
+2024-10-12,After School Care,West,Parents,9,127.85,0.18,943.53
+2024-02-27,Preschool,East,Parents,3,243.2,0.18,598.27
+2024-04-18,Preschool,West,Guardians,9,996.19,0.26,6634.63
+2024-07-28,Preschool,North,Parents,8,944.85,0.17,6273.8
+2024-02-03,Preschool,North,Guardians,6,113.15,0.25,509.18
+2024-10-06,After School Care,North,Guardians,4,486.88,0.19,1577.49
+2024-05-28,Preschool,West,Guardians,11,448.81,0.21,3900.16
+2024-09-15,Preschool,East,Guardians,18,909.38,0.23,12604.01
+2024-04-11,Preschool,West,Parents,16,782.43,0.01,12393.69
+2024-02-18,Preschool,East,Guardians,8,144.26,0.23,888.64
+2024-07-30,Preschool,South,Guardians,5,665.74,0.1,2995.83
+2024-02-29,Daycare,East,Guardians,19,371.34,0.12,6208.8
+2024-09-02,Daycare,South,Parents,20,621.35,0.24,9444.52
+2024-02-03,Preschool,South,Guardians,9,762.82,0.27,5011.73
+2024-04-08,After School Care,West,Guardians,6,426.51,0.16,2149.61
+2024-06-05,After School Care,East,Guardians,2,584.1,0.08,1074.74
+2024-06-11,After School Care,South,Guardians,15,557.53,0.27,6104.95
+2024-07-14,Daycare,North,Parents,10,723.01,0.08,6651.69
+2024-04-18,After School Care,West,Parents,20,121.96,0.0,2439.2
+2024-11-07,After School Care,South,Guardians,11,647.5,0.09,6481.48
+2024-05-15,After School Care,East,Parents,18,960.44,0.26,12793.06
+2024-02-24,Preschool,North,Parents,18,156.07,0.22,2191.22
+2024-02-24,After School Care,West,Guardians,17,471.03,0.03,7767.28
+2024-03-24,Daycare,West,Guardians,11,176.39,0.16,1629.84
+2024-01-12,Daycare,East,Parents,17,634.48,0.27,7873.9
+2024-11-17,Preschool,North,Parents,5,791.97,0.11,3524.27
+2024-03-20,Preschool,East,Parents,1,867.38,0.01,858.71
+2024-12-20,Preschool,East,Guardians,18,635.19,0.18,9375.4
+2024-01-14,After School Care,North,Guardians,3,150.03,0.01,445.59
+2024-01-22,After School Care,West,Parents,14,738.26,0.24,7855.09
+2024-05-10,After School Care,East,Parents,3,800.42,0.05,2281.2
+2024-10-22,After School Care,South,Parents,10,688.21,0.28,4955.11
+2024-02-18,After School Care,West,Guardians,16,460.6,0.14,6337.86
+2024-12-29,Preschool,North,Parents,6,269.2,0.3,1130.64
+2024-03-15,Preschool,West,Parents,3,898.58,0.16,2264.42
+2024-12-25,After School Care,West,Parents,10,258.89,0.27,1889.9
+2024-03-23,Preschool,West,Guardians,2,887.29,0.04,1703.6
+2024-07-17,After School Care,West,Guardians,13,594.69,0.12,6803.25
+2024-05-27,Daycare,North,Guardians,2,459.39,0.13,799.34
+2024-12-31,Preschool,North,Guardians,3,179.2,0.06,505.34
+2024-05-25,Preschool,South,Guardians,7,654.82,0.21,3621.15
+2024-08-27,Preschool,West,Guardians,9,541.99,0.16,4097.44
+2024-01-19,Preschool,North,Guardians,7,572.46,0.19,3245.85
+2024-06-20,Daycare,West,Parents,11,231.67,0.1,2293.53
+2024-10-23,Daycare,West,Guardians,12,764.72,0.09,8350.74
+2024-08-11,Daycare,North,Parents,11,636.59,0.23,5391.92
+2024-02-22,After School Care,West,Parents,17,143.55,0.13,2123.1
+2024-11-17,Preschool,South,Parents,12,375.69,0.26,3336.13
+2024-11-11,After School Care,West,Guardians,19,668.73,0.15,10799.99
+2024-02-14,Preschool,East,Guardians,19,810.38,0.14,13241.61
+2024-04-14,After School Care,South,Guardians,15,431.09,0.2,5173.08
+2024-09-05,After School Care,North,Parents,11,878.9,0.29,6864.21
+2024-11-15,Preschool,North,Guardians,7,195.56,0.09,1245.72
+2024-01-28,Daycare,East,Guardians,12,866.54,0.01,10294.5
+2024-04-13,Daycare,East,Guardians,7,792.84,0.13,4828.4
+2024-07-18,After School Care,West,Parents,18,982.66,0.24,13442.79
+2024-10-13,Daycare,East,Parents,12,891.54,0.13,9307.68
+2024-02-11,Daycare,South,Guardians,20,610.44,0.25,9156.6
+2024-08-27,Preschool,East,Guardians,19,871.06,0.08,15226.13
+2024-11-28,After School Care,South,Guardians,17,644.9,0.11,9757.34
+2024-03-28,After School Care,South,Parents,18,208.3,0.27,2737.06
+2024-11-29,Preschool,East,Parents,19,566.62,0.13,9366.23
+2024-10-23,Preschool,North,Parents,3,716.92,0.11,1914.18
+2024-02-18,Preschool,East,Guardians,13,962.87,0.08,11515.93
+2024-04-29,Preschool,East,Guardians,8,431.93,0.14,2971.68
+2024-07-11,After School Care,North,Parents,14,326.7,0.24,3476.09
+2024-02-20,After School Care,East,Guardians,1,703.92,0.17,584.25
+2024-02-29,After School Care,West,Guardians,9,931.64,0.21,6623.96
+2024-06-26,Preschool,North,Guardians,1,811.51,0.12,714.13
+2024-02-04,Daycare,North,Guardians,11,614.94,0.03,6561.41
+2024-07-10,Preschool,North,Parents,20,690.15,0.06,12974.82
+2024-07-10,Preschool,East,Guardians,10,167.37,0.07,1556.54
+2024-05-14,Preschool,West,Guardians,11,540.85,0.14,5116.44
+2024-07-19,Preschool,North,Parents,3,491.5,0.02,1445.01
+2024-11-28,After School Care,South,Guardians,11,578.39,0.25,4771.72
+2024-08-15,After School Care,East,Parents,10,486.93,0.2,3895.44
+2024-12-16,Preschool,East,Guardians,13,478.53,0.28,4479.04
+2024-05-14,After School Care,North,Parents,9,241.52,0.01,2151.94
+2024-06-01,Preschool,South,Parents,8,274.58,0.25,1647.48
+2024-02-10,Daycare,West,Guardians,4,234.12,0.21,739.82
+2024-01-31,After School Care,South,Guardians,2,262.85,0.02,515.19
+2024-10-24,Preschool,East,Guardians,3,532.24,0.24,1213.51
+2024-05-11,After School Care,East,Parents,17,254.97,0.08,3987.73
+2024-01-27,Daycare,East,Parents,4,202.15,0.28,582.19
+2024-06-29,Preschool,East,Guardians,14,831.39,0.23,8962.38
+2024-07-10,Preschool,South,Guardians,11,181.88,0.04,1920.65
+2024-03-29,After School Care,North,Guardians,17,911.27,0.14,13322.77
+2024-06-16,Preschool,West,Parents,4,101.21,0.17,336.02
+2024-07-16,Preschool,West,Guardians,8,249.92,0.19,1619.48
+2024-11-03,Daycare,South,Guardians,16,335.62,0.06,5047.72
+2024-02-13,Preschool,West,Parents,4,838.53,0.08,3085.79
+2024-08-27,After School Care,West,Guardians,16,945.24,0.0,15123.84
+2024-01-15,After School Care,West,Guardians,2,629.89,0.21,995.23
+2024-07-03,After School Care,West,Parents,19,441.53,0.23,6459.58
+2024-03-04,Preschool,East,Guardians,12,527.43,0.11,5632.95
+2024-02-08,Daycare,East,Guardians,3,265.44,0.19,645.02
+2024-01-22,Daycare,North,Parents,2,827.69,0.18,1357.41
+2024-04-18,Preschool,North,Guardians,16,522.75,0.23,6440.28
+2024-12-22,After School Care,East,Guardians,2,733.57,0.24,1115.03
+2024-06-17,After School Care,West,Guardians,11,323.33,0.11,3165.4
+2024-04-13,Preschool,South,Parents,6,297.75,0.24,1357.74
+2024-02-28,After School Care,North,Parents,15,212.39,0.21,2516.82
+2024-06-03,After School Care,East,Guardians,18,137.99,0.01,2458.98
+2024-03-18,After School Care,West,Parents,7,622.77,0.29,3095.17
+2024-01-30,After School Care,North,Guardians,11,634.97,0.02,6844.98
+2024-04-01,Preschool,West,Guardians,17,548.2,0.03,9039.82
+2024-08-15,Daycare,West,Guardians,10,421.13,0.04,4042.85
+2024-05-22,Daycare,East,Parents,18,646.62,0.04,11173.59
+2024-11-07,After School Care,North,Guardians,19,351.71,0.17,5546.47
+2024-10-13,Preschool,East,Guardians,19,992.59,0.1,16973.29
+2024-03-16,After School Care,East,Parents,10,141.81,0.23,1091.94
+2024-10-10,Preschool,East,Parents,7,684.45,0.29,3401.72
+2024-03-30,Daycare,South,Guardians,15,792.55,0.05,11293.84
+2024-09-19,After School Care,North,Guardians,7,774.83,0.26,4013.62
+2024-05-19,Daycare,West,Parents,5,444.88,0.07,2068.69
+2024-08-24,After School Care,South,Parents,6,102.56,0.11,547.67
+2024-07-11,Daycare,South,Parents,13,313.86,0.04,3916.97
+2024-05-07,After School Care,South,Parents,10,489.94,0.02,4801.41
+2024-05-11,Preschool,South,Guardians,7,763.99,0.18,4385.3
+2024-09-17,Preschool,North,Parents,14,858.26,0.02,11775.33
+2024-01-05,Daycare,North,Guardians,1,135.35,0.14,116.4
+2024-12-03,Daycare,North,Guardians,15,567.95,0.01,8434.06
+2024-03-28,Preschool,South,Parents,13,220.39,0.15,2435.31
+2024-01-03,Daycare,West,Guardians,15,333.78,0.1,4506.03
+2024-07-25,Preschool,North,Parents,14,824.39,0.13,10041.07
+2024-08-06,Daycare,South,Parents,11,878.67,0.24,7345.68
+2024-04-08,Preschool,East,Parents,19,243.26,0.11,4113.53
+2024-07-20,Preschool,West,Guardians,1,789.63,0.19,639.6
+2024-05-27,After School Care,West,Guardians,2,885.67,0.03,1718.2
+2024-09-23,After School Care,East,Parents,4,274.21,0.15,932.31
+2024-11-17,Preschool,North,Parents,7,689.43,0.22,3764.29
+2024-11-27,Preschool,South,Guardians,9,373.89,0.04,3230.41
+2024-03-15,Daycare,South,Guardians,1,154.48,0.06,145.21
+2024-04-11,Daycare,West,Guardians,7,747.61,0.28,3767.95
+2024-08-23,Daycare,East,Parents,3,293.75,0.18,722.62
+2024-03-11,Preschool,South,Guardians,3,141.8,0.04,408.38
+2024-05-30,Preschool,East,Guardians,5,513.8,0.18,2106.58
+2024-08-09,After School Care,West,Guardians,5,957.81,0.13,4166.47
+2024-07-12,After School Care,North,Parents,1,156.4,0.08,143.89
+2024-01-06,Preschool,East,Guardians,10,398.79,0.0,3987.9
+2024-09-29,After School Care,North,Guardians,20,437.97,0.04,8409.02
+2024-01-24,Preschool,West,Guardians,13,509.15,0.03,6420.38
+2024-09-14,Preschool,South,Guardians,20,489.71,0.08,9010.66
+2024-06-21,Preschool,North,Guardians,6,132.45,0.04,762.91
+2024-08-18,Preschool,West,Parents,4,800.19,0.04,3072.73
+2024-03-03,After School Care,East,Parents,14,761.91,0.14,9173.4
+2024-01-29,After School Care,West,Parents,11,963.55,0.08,9751.13
+2024-07-11,Preschool,West,Parents,5,308.8,0.16,1296.96
+2024-10-15,Preschool,North,Parents,4,179.27,0.06,674.06
+2024-10-29,After School Care,East,Parents,10,630.6,0.17,5233.98
+2024-07-19,Daycare,North,Guardians,20,729.92,0.21,11532.74
+2024-01-24,Preschool,South,Guardians,12,976.02,0.16,9838.28
+2024-09-14,After School Care,East,Guardians,7,244.95,0.28,1234.55
+2024-01-22,After School Care,South,Guardians,17,703.92,0.03,11607.64
+2024-11-15,Daycare,South,Guardians,3,950.2,0.08,2622.55
+2024-01-09,After School Care,South,Guardians,8,531.71,0.27,3105.19
+2024-12-03,Daycare,West,Parents,7,797.7,0.0,5583.9
+2024-07-27,After School Care,North,Parents,8,930.95,0.26,5511.22
+2024-04-21,Daycare,East,Guardians,16,469.21,0.17,6231.11
+2024-12-19,After School Care,East,Parents,8,100.54,0.25,603.24
+2024-06-19,Daycare,North,Parents,18,923.24,0.28,11965.19
+2024-05-16,Daycare,West,Guardians,11,846.54,0.26,6890.84
+2024-06-23,After School Care,North,Parents,8,476.64,0.17,3164.89
+2024-02-24,Preschool,North,Guardians,9,357.47,0.03,3120.71
+2024-02-16,After School Care,East,Guardians,3,408.53,0.19,992.73
+2024-02-01,Daycare,South,Guardians,18,601.94,0.23,8342.89
+2024-10-24,After School Care,West,Guardians,19,330.1,0.29,4453.05
+2024-06-18,Daycare,North,Guardians,2,812.62,0.04,1560.23
+2024-04-09,Preschool,North,Parents,2,514.43,0.27,751.07
+2024-05-18,After School Care,East,Guardians,7,556.82,0.06,3663.88
+2024-10-09,Preschool,North,Parents,19,987.87,0.07,17455.66
+2024-08-02,After School Care,South,Parents,16,773.47,0.16,10395.44
+2024-05-04,After School Care,East,Guardians,4,923.82,0.04,3547.47
+2024-05-14,Daycare,South,Guardians,15,969.72,0.22,11345.72
+2024-06-23,Daycare,North,Parents,7,192.26,0.21,1063.2
+2024-02-11,Daycare,North,Guardians,18,328.92,0.29,4203.6
+2024-10-21,Preschool,South,Guardians,1,282.59,0.01,279.76
+2024-06-23,Daycare,North,Guardians,8,271.94,0.15,1849.19
+2024-09-01,After School Care,West,Parents,13,517.8,0.04,6462.14
+2024-11-17,Daycare,North,Guardians,5,455.91,0.22,1778.05
+2024-07-11,Daycare,West,Guardians,10,711.32,0.17,5903.96
+2024-06-24,After School Care,South,Guardians,15,340.0,0.22,3978.0
+2024-01-05,Preschool,West,Guardians,13,112.89,0.02,1438.22
+2024-06-07,Preschool,South,Guardians,17,269.58,0.19,3712.12
+2024-04-13,Daycare,North,Guardians,11,894.8,0.25,7382.1
+2024-09-25,Daycare,West,Parents,7,768.8,0.17,4466.73
+2024-12-09,Daycare,West,Guardians,17,194.22,0.06,3103.64
+2024-06-14,Daycare,South,Parents,9,854.25,0.25,5766.19
+2024-03-25,Daycare,West,Parents,19,680.34,0.22,10082.64
+2024-01-17,Preschool,South,Parents,5,587.44,0.16,2467.25
+2024-11-05,Daycare,East,Parents,18,348.25,0.21,4952.12
+2024-06-03,Daycare,West,Guardians,13,176.95,0.27,1679.26
+2024-04-10,After School Care,North,Guardians,19,599.02,0.26,8422.22
+2024-08-18,Daycare,North,Parents,17,268.42,0.04,4380.61
+2024-06-20,After School Care,North,Parents,2,704.38,0.03,1366.5
+2024-11-28,Daycare,South,Guardians,17,267.38,0.26,3363.64
+2024-08-11,After School Care,East,Guardians,11,670.2,0.02,7224.76
+2024-01-28,Preschool,West,Parents,12,725.77,0.09,7925.41
+2024-12-02,Daycare,West,Guardians,16,391.27,0.14,5383.88
+2024-08-12,After School Care,North,Guardians,17,174.06,0.29,2100.9
+2024-04-12,After School Care,North,Guardians,3,489.86,0.03,1425.49
+2024-10-05,Preschool,East,Parents,14,858.91,0.26,8898.31
+2024-11-11,Preschool,North,Parents,12,204.22,0.23,1886.99
+2024-11-08,After School Care,East,Parents,6,485.61,0.28,2097.84
+2024-05-03,After School Care,South,Guardians,13,487.43,0.14,5449.47
+2024-10-02,After School Care,East,Parents,16,310.89,0.1,4476.82
+2024-04-05,After School Care,East,Guardians,11,777.75,0.06,8041.94
+2024-02-02,Preschool,North,Parents,7,917.53,0.09,5844.67
+2024-08-21,Preschool,East,Parents,17,934.94,0.09,14463.52
+2024-05-09,After School Care,South,Parents,7,502.63,0.26,2603.62
+2024-10-08,Preschool,West,Guardians,8,345.53,0.26,2045.54
+2024-11-13,After School Care,North,Parents,5,338.6,0.03,1642.21
+2024-12-19,Preschool,East,Guardians,6,293.9,0.19,1428.35
+2024-03-11,Daycare,East,Guardians,12,459.87,0.03,5352.89
+2024-05-27,Daycare,North,Parents,13,978.59,0.18,10431.77
+2024-08-06,After School Care,West,Parents,9,361.65,0.26,2408.59
+2024-05-19,Daycare,West,Guardians,5,885.94,0.2,3543.76
+2024-10-11,Daycare,South,Guardians,15,401.52,0.06,5661.43
+2024-01-17,Preschool,South,Parents,4,794.44,0.29,2256.21
+2024-05-16,After School Care,North,Parents,6,735.43,0.21,3485.94
+2024-01-06,Preschool,South,Parents,13,513.76,0.12,5877.41
+2024-03-08,Preschool,North,Guardians,14,699.32,0.26,7244.96
+2024-04-09,Preschool,East,Guardians,2,288.39,0.19,467.19
+2024-01-08,After School Care,North,Guardians,10,742.55,0.15,6311.68
+2024-11-08,Preschool,East,Parents,16,971.64,0.02,15235.32
+2024-05-04,Daycare,North,Parents,12,606.43,0.11,6476.67
+2024-01-10,Daycare,East,Parents,7,421.94,0.27,2156.11
+2024-09-16,Daycare,North,Guardians,6,938.9,0.13,4901.06
+2024-07-08,Preschool,West,Guardians,8,282.41,0.27,1649.27
+2024-12-21,Preschool,South,Parents,17,978.39,0.24,12640.8
+2024-02-22,Preschool,North,Guardians,5,702.55,0.02,3442.5
+2024-06-15,After School Care,East,Parents,7,654.5,0.12,4031.72
+2024-11-20,After School Care,West,Guardians,17,982.12,0.2,13356.83
+2024-08-17,Daycare,West,Guardians,5,377.83,0.29,1341.3
+2024-02-05,Preschool,South,Guardians,8,497.63,0.15,3383.88
+2024-07-21,Daycare,West,Parents,8,246.9,0.04,1896.19
+2024-05-27,Preschool,South,Parents,18,337.21,0.13,5280.71
+2024-09-03,Daycare,North,Parents,6,967.87,0.11,5168.43
+2024-01-25,Daycare,South,Guardians,5,189.25,0.06,889.47
+2024-03-19,Preschool,East,Parents,15,100.65,0.22,1177.6
+2024-10-30,Daycare,South,Parents,15,771.66,0.23,8912.67
+2024-09-14,Daycare,West,Guardians,18,842.71,0.01,15017.09
+2024-02-14,After School Care,West,Parents,5,988.91,0.03,4796.21
+2024-03-17,Daycare,West,Guardians,12,446.8,0.21,4235.66
+2024-12-15,After School Care,East,Parents,3,544.42,0.3,1143.28
+2024-07-01,Daycare,South,Guardians,16,846.83,0.02,13278.29
+2024-05-24,After School Care,North,Guardians,8,326.93,0.13,2275.43
+2024-02-13,After School Care,West,Guardians,5,635.81,0.02,3115.47
+2024-09-17,After School Care,South,Guardians,2,398.12,0.23,613.1
+2024-11-04,Daycare,East,Guardians,15,418.4,0.15,5334.6
+2024-01-13,Preschool,North,Guardians,8,640.53,0.14,4406.85
+2024-07-15,After School Care,West,Parents,7,928.43,0.27,4744.28
+2024-09-05,Preschool,North,Parents,14,996.55,0.11,12417.01
+2024-12-13,After School Care,East,Parents,20,467.39,0.18,7665.2
+2024-03-04,Preschool,South,Guardians,4,153.73,0.18,504.23
+2024-06-09,After School Care,West,Guardians,18,661.65,0.21,9408.66
+2024-07-10,After School Care,North,Parents,10,566.27,0.1,5096.43
+2024-05-20,After School Care,North,Guardians,12,199.95,0.24,1823.54
+2024-11-15,Daycare,South,Guardians,12,426.12,0.3,3579.41
+2024-12-19,After School Care,West,Parents,16,140.17,0.0,2242.72
+2024-01-10,Daycare,East,Parents,18,683.48,0.06,11564.48
+2024-10-03,Preschool,North,Guardians,18,628.32,0.01,11196.66
+2024-01-21,Preschool,North,Parents,10,732.22,0.01,7248.98
+2024-11-13,Daycare,North,Parents,6,794.94,0.29,3386.44
+2024-02-20,Preschool,North,Guardians,14,132.77,0.06,1747.25
+2024-05-21,Daycare,North,Guardians,17,198.54,0.03,3273.92
+2024-04-01,Preschool,East,Parents,7,332.15,0.1,2092.54
+2024-10-12,After School Care,North,Parents,5,210.24,0.05,998.64
+2024-03-06,After School Care,East,Parents,8,716.85,0.1,5161.32
+2024-07-16,Preschool,East,Parents,17,389.31,0.17,5493.16
+2024-10-15,After School Care,South,Parents,1,953.52,0.14,820.03
+2024-06-01,Preschool,North,Parents,12,634.57,0.23,5863.43
+2024-06-13,After School Care,South,Parents,11,296.76,0.27,2382.98
+2024-01-14,After School Care,West,Parents,7,611.05,0.18,3507.43
+2024-09-28,After School Care,North,Parents,14,113.06,0.02,1551.18
+2024-01-17,Preschool,West,Parents,9,869.1,0.15,6648.62
+2024-11-22,Preschool,South,Guardians,3,800.43,0.14,2065.11
+2024-10-27,Preschool,East,Guardians,13,269.6,0.18,2873.94
+2024-12-24,Daycare,West,Parents,15,588.72,0.0,8830.8
+2024-01-26,After School Care,North,Guardians,7,620.0,0.13,3775.8
+2024-02-02,Preschool,North,Guardians,3,588.8,0.07,1642.75
+2024-01-26,After School Care,South,Guardians,13,876.33,0.18,9341.68
+2024-05-19,After School Care,East,Guardians,14,131.24,0.19,1488.26
+2024-11-18,Preschool,South,Parents,5,573.26,0.27,2092.4
+2024-06-17,Daycare,West,Parents,7,395.67,0.01,2741.99
+2024-06-20,After School Care,West,Parents,7,423.14,0.25,2221.48
+2024-04-02,Daycare,West,Parents,13,259.29,0.11,2999.99
+2024-01-21,After School Care,West,Guardians,4,431.92,0.1,1554.91
+2024-05-02,Daycare,South,Parents,4,455.23,0.02,1784.5
+2024-11-17,Preschool,North,Guardians,14,398.17,0.21,4403.76
+2024-03-25,Preschool,North,Guardians,16,514.4,0.25,6172.8
+2024-03-25,Preschool,West,Parents,9,766.42,0.13,6001.07
+2024-10-30,After School Care,East,Guardians,15,400.01,0.21,4740.12
+2024-06-05,Preschool,North,Guardians,4,484.35,0.01,1918.03
+2024-01-03,Daycare,West,Guardians,9,167.13,0.1,1353.75
+2024-05-16,Preschool,East,Guardians,10,472.61,0.16,3969.92
+2024-10-11,After School Care,South,Parents,1,185.37,0.24,140.88
+2024-08-14,After School Care,North,Guardians,2,428.55,0.08,788.53
+2024-01-09,After School Care,East,Guardians,15,294.26,0.15,3751.81
+2024-09-04,After School Care,East,Guardians,3,449.38,0.09,1226.81
+2024-11-03,After School Care,South,Guardians,4,154.06,0.01,610.08
+2024-08-31,After School Care,North,Guardians,1,341.27,0.2,273.02
+2024-03-29,Daycare,East,Guardians,4,976.63,0.22,3047.09
+2024-05-03,After School Care,East,Parents,19,197.06,0.14,3219.96
+2024-07-09,Daycare,South,Parents,7,148.91,0.04,1000.68
+2024-06-06,Preschool,South,Guardians,9,572.74,0.03,5000.02
+2024-10-20,Preschool,West,Guardians,12,359.52,0.29,3063.11
+2024-08-19,Preschool,North,Guardians,18,459.11,0.09,7520.22
+2024-07-24,Preschool,South,Parents,16,833.86,0.07,12407.84
+2024-06-29,After School Care,South,Guardians,5,997.78,0.29,3542.12
+2024-06-29,Preschool,South,Parents,6,458.18,0.15,2336.72
+2024-06-30,After School Care,South,Guardians,6,534.83,0.03,3112.71
+2024-09-09,Preschool,West,Parents,16,153.42,0.02,2405.63
+2024-05-23,After School Care,North,Parents,14,480.94,0.16,5655.85
+2024-01-24,After School Care,South,Guardians,5,522.26,0.12,2297.94
+2024-04-23,Preschool,West,Parents,20,102.36,0.22,1596.82
+2024-11-19,Preschool,East,Parents,15,466.66,0.03,6789.9
+2024-01-29,Preschool,South,Guardians,2,620.05,0.15,1054.08
+2024-09-19,Preschool,North,Parents,16,342.25,0.13,4764.12
+2024-12-13,Preschool,South,Parents,7,424.3,0.09,2702.79
+2024-12-15,Preschool,South,Guardians,5,923.56,0.29,3278.64
+2024-11-17,After School Care,South,Guardians,19,307.92,0.03,5674.97
+2024-06-14,After School Care,North,Parents,15,250.69,0.03,3647.54
+2024-07-14,Preschool,South,Guardians,4,675.44,0.08,2485.62
+2024-12-27,Daycare,South,Guardians,5,272.74,0.21,1077.32
+2024-12-20,Daycare,North,Parents,16,260.65,0.07,3878.47
+2024-02-19,Preschool,East,Guardians,9,942.23,0.12,7462.46
+2024-10-28,After School Care,West,Parents,14,434.68,0.04,5842.1
+2024-06-23,After School Care,North,Parents,15,704.61,0.08,9723.62
+2024-12-25,Preschool,West,Parents,12,898.9,0.16,9060.91
+2024-12-12,After School Care,East,Parents,7,999.43,0.08,6436.33
+2024-01-16,Daycare,East,Guardians,11,611.28,0.2,5379.26
+2024-05-31,Preschool,East,Parents,2,872.83,0.21,1379.07
+2024-05-08,Preschool,West,Guardians,19,583.99,0.28,7988.98
+2024-10-25,Daycare,South,Guardians,5,738.06,0.21,2915.34
+2024-02-21,Preschool,North,Guardians,19,598.72,0.09,10351.87
+2024-04-13,Daycare,South,Parents,11,413.28,0.13,3955.09
+2024-12-26,Preschool,North,Parents,18,967.28,0.12,15321.72
+2024-02-16,Preschool,North,Parents,8,675.54,0.04,5188.15
+2024-10-21,After School Care,South,Parents,15,579.19,0.29,6168.37
+2024-06-18,Daycare,West,Parents,7,417.26,0.02,2862.4
+2024-02-20,Preschool,North,Parents,20,167.23,0.24,2541.9
+2024-01-28,Preschool,South,Guardians,9,688.52,0.25,4647.51
+2024-05-12,Daycare,West,Guardians,16,720.19,0.24,8757.51
+2024-12-02,Preschool,East,Guardians,15,765.54,0.19,9301.31
+2024-01-22,After School Care,South,Guardians,9,506.39,0.28,3281.41
+2024-04-27,Preschool,East,Parents,20,312.97,0.05,5946.43
+2024-08-06,Daycare,East,Guardians,17,564.79,0.25,7201.07
+2024-04-04,Preschool,South,Parents,6,541.17,0.09,2954.79
+2024-10-16,Preschool,West,Guardians,19,143.29,0.04,2613.61
+2024-08-21,After School Care,South,Parents,4,824.7,0.12,2902.94
+2024-02-05,Preschool,East,Parents,4,456.0,0.1,1641.6
+2024-09-05,Daycare,North,Guardians,11,913.68,0.02,9849.47
+2024-06-03,Preschool,West,Guardians,12,847.62,0.16,8544.01
+2024-03-08,After School Care,East,Parents,16,245.19,0.04,3766.12
+2024-10-21,After School Care,North,Guardians,1,738.68,0.01,731.29
+2024-10-29,Daycare,North,Parents,7,840.12,0.04,5645.61
+2024-10-04,After School Care,South,Parents,13,190.66,0.05,2354.65
+2024-04-05,After School Care,North,Guardians,5,452.02,0.09,2056.69
+2024-02-11,Daycare,West,Guardians,8,719.3,0.19,4661.06
+2024-09-13,Daycare,North,Guardians,16,782.62,0.29,8890.56
+2024-12-02,Daycare,South,Guardians,16,749.47,0.12,10552.54
+2024-06-12,Preschool,West,Parents,3,179.75,0.09,490.72
+2024-08-08,After School Care,North,Parents,13,525.44,0.07,6352.57
+2024-08-09,Daycare,West,Guardians,8,701.51,0.26,4152.94
+2024-03-20,After School Care,East,Guardians,2,723.62,0.26,1070.96
+2024-08-08,Daycare,South,Parents,12,819.17,0.26,7274.23
+2024-12-06,Preschool,West,Parents,1,994.13,0.11,884.78
+2024-03-06,Daycare,North,Parents,3,307.62,0.06,867.49
+2024-08-07,Preschool,South,Parents,1,297.76,0.22,232.25
+2024-06-23,Daycare,South,Parents,4,533.88,0.27,1558.93
+2024-09-11,Daycare,North,Guardians,20,102.93,0.0,2058.6
+2024-08-20,Preschool,South,Guardians,12,327.56,0.25,2948.04
+2024-01-03,Preschool,North,Guardians,20,378.28,0.14,6506.42
+2024-06-26,Daycare,South,Guardians,6,329.61,0.05,1878.78
+2024-12-01,After School Care,South,Parents,10,993.09,0.08,9136.43
+2024-11-08,Preschool,South,Guardians,12,142.41,0.2,1367.14
+2024-09-24,Preschool,West,Parents,15,458.77,0.27,5023.53
+2024-11-23,Preschool,East,Parents,8,417.55,0.03,3240.19
+2024-12-30,Preschool,North,Guardians,9,809.84,0.16,6122.39
+2024-07-16,After School Care,West,Parents,20,677.47,0.29,9620.07
+2024-12-23,Daycare,South,Parents,8,941.68,0.21,5951.42
+2024-05-10,After School Care,North,Guardians,2,548.17,0.25,822.25
+2024-11-19,Daycare,South,Guardians,3,117.59,0.17,292.8
+2024-06-04,After School Care,West,Parents,10,359.1,0.21,2836.89
+2024-05-26,Preschool,East,Guardians,9,731.52,0.22,5135.27
+2024-07-16,Preschool,East,Guardians,14,153.69,0.26,1592.23
+2024-12-27,After School Care,South,Parents,18,136.45,0.16,2063.12
+2024-09-24,Daycare,South,Parents,3,593.42,0.11,1584.43
+2024-12-20,Daycare,West,Parents,6,817.6,0.29,3482.98
+2024-02-07,After School Care,South,Guardians,10,739.29,0.1,6653.61
+2024-09-13,Daycare,South,Guardians,8,923.11,0.29,5243.26
+2024-05-15,Daycare,East,Parents,3,519.72,0.28,1122.6
+2024-08-15,Daycare,North,Guardians,7,986.14,0.05,6557.83
+2024-05-29,Daycare,West,Guardians,17,885.65,0.26,11141.48
+2024-08-08,Daycare,East,Parents,16,462.95,0.17,6147.98
+2024-09-03,After School Care,South,Parents,10,481.05,0.21,3800.3
+2024-04-06,After School Care,South,Parents,2,793.24,0.19,1285.05
+2024-10-21,Preschool,West,Parents,7,602.17,0.14,3625.06
+2024-12-22,Daycare,South,Parents,14,856.81,0.04,11515.53
+2024-08-27,After School Care,North,Guardians,7,840.89,0.29,4179.22
+2024-02-26,Daycare,South,Guardians,9,912.44,0.03,7965.6
+2024-07-22,After School Care,East,Guardians,1,819.4,0.28,589.97
+2024-02-20,Daycare,East,Parents,17,448.53,0.18,6252.51
+2024-02-07,Preschool,South,Parents,5,379.82,0.19,1538.27
+2024-04-13,Preschool,North,Parents,11,162.08,0.22,1390.65
+2024-11-26,Daycare,East,Guardians,1,436.69,0.01,432.32
+2024-09-13,After School Care,East,Guardians,13,429.33,0.29,3962.72
+2024-02-23,After School Care,South,Parents,18,445.39,0.17,6654.13
+2024-12-07,Daycare,North,Guardians,3,495.37,0.19,1203.75
+2024-08-20,Daycare,West,Guardians,16,303.4,0.15,4126.24
+2024-03-27,Preschool,North,Parents,16,330.99,0.13,4607.38
+2024-11-12,Daycare,South,Guardians,18,837.02,0.18,12354.42
+2024-10-07,Preschool,North,Parents,5,416.53,0.23,1603.64
+2024-07-18,After School Care,South,Guardians,5,621.05,0.05,2949.99
+2024-06-22,After School Care,West,Parents,13,316.96,0.2,3296.38
+2024-01-03,Daycare,West,Guardians,3,865.42,0.19,2102.97
+2024-02-04,After School Care,North,Parents,15,832.61,0.0,12489.15
+2024-06-29,Daycare,West,Guardians,11,441.8,0.02,4762.6
+2024-11-18,Daycare,West,Guardians,15,123.06,0.05,1753.6
+2024-01-08,After School Care,North,Parents,6,147.74,0.15,753.47
+2024-08-04,Preschool,East,Guardians,12,153.97,0.26,1367.25
+2024-05-05,Daycare,East,Guardians,13,752.3,0.1,8801.91
+2024-11-04,After School Care,North,Guardians,17,785.11,0.05,12679.53
+2024-04-18,After School Care,North,Parents,16,765.45,0.1,11022.48
+2024-01-08,Preschool,North,Guardians,15,269.02,0.18,3308.95
+2024-12-03,Daycare,East,Guardians,18,150.55,0.16,2276.32
+2024-02-14,Daycare,South,Guardians,12,760.24,0.22,7115.85
+2024-11-04,Preschool,West,Parents,11,494.94,0.03,5281.01
+2024-09-05,Daycare,North,Guardians,8,453.4,0.2,2901.76
+2024-10-31,Daycare,South,Parents,4,814.51,0.13,2834.49
+2024-02-02,Daycare,East,Guardians,8,323.09,0.17,2145.32
+2024-12-06,Daycare,West,Guardians,5,405.99,0.1,1826.96
+2024-06-06,After School Care,South,Guardians,6,493.24,0.09,2693.09
+2024-01-11,Preschool,South,Guardians,20,948.37,0.23,14604.9
+2024-09-29,Preschool,North,Parents,14,193.62,0.16,2276.97
+2024-06-16,After School Care,South,Guardians,11,524.79,0.03,5599.51
+2024-01-29,Daycare,West,Parents,15,633.32,0.13,8264.83
+2024-12-02,Preschool,West,Guardians,7,263.57,0.11,1642.04
+2024-03-26,Preschool,West,Parents,16,810.75,0.27,9469.56
+2024-08-05,After School Care,North,Parents,17,384.45,0.15,5555.3
+2024-09-14,Preschool,East,Guardians,17,856.52,0.12,12813.54
+2024-12-21,Preschool,West,Parents,14,262.6,0.01,3639.64
+2024-04-08,Daycare,West,Guardians,17,625.45,0.05,10101.02
+2024-08-02,Preschool,West,Guardians,15,539.05,0.04,7762.32
+2024-05-07,Preschool,East,Parents,3,199.55,0.17,496.88
+2024-04-27,Preschool,North,Parents,20,833.89,0.26,12341.57
+2024-10-15,Preschool,West,Parents,14,583.05,0.28,5877.14
+2024-03-12,After School Care,South,Guardians,5,710.09,0.22,2769.35
+2024-03-20,Daycare,East,Guardians,15,662.6,0.12,8746.32
+2024-12-07,Daycare,North,Guardians,7,894.18,0.07,5821.11
+2024-10-27,After School Care,South,Guardians,13,780.36,0.28,7304.17
+2024-03-18,After School Care,West,Guardians,2,627.8,0.05,1192.82
+2024-03-06,Preschool,East,Parents,14,414.33,0.09,5278.56
+2024-05-03,After School Care,North,Parents,15,479.68,0.2,5756.16
+2024-07-24,Daycare,East,Parents,12,486.42,0.15,4961.48
+2024-07-22,After School Care,South,Parents,10,827.95,0.28,5961.24
+2024-06-20,Preschool,East,Parents,18,773.1,0.17,11550.11
+2024-10-11,After School Care,West,Guardians,20,527.24,0.02,10333.9
+2024-09-09,After School Care,North,Parents,10,637.0,0.08,5860.4
+2024-07-01,Daycare,East,Guardians,14,767.75,0.01,10641.02
+2024-12-03,Preschool,North,Parents,20,536.88,0.17,8912.21
+2024-01-06,Daycare,South,Guardians,7,290.43,0.25,1524.76
+2024-12-28,After School Care,East,Guardians,13,163.94,0.27,1555.79
+2024-01-31,Preschool,South,Guardians,10,237.05,0.25,1777.88
+2024-01-24,After School Care,East,Parents,9,381.45,0.29,2437.47
+2024-09-29,Preschool,West,Parents,16,799.42,0.2,10232.58
+2024-12-04,Preschool,South,Guardians,8,791.77,0.11,5637.4
+2024-06-28,After School Care,North,Parents,17,480.66,0.14,7027.25
+2024-08-30,Preschool,North,Parents,18,835.47,0.06,14136.15
+2024-10-23,After School Care,North,Parents,8,436.66,0.18,2864.49
+2024-09-17,Daycare,West,Guardians,10,627.68,0.18,5146.98
+2024-10-16,Preschool,South,Parents,1,309.01,0.1,278.11
+2024-05-31,Preschool,West,Parents,19,345.67,0.27,4794.44
+2024-10-03,Preschool,East,Parents,17,638.86,0.15,9231.53
+2024-10-20,Daycare,West,Parents,4,903.58,0.01,3578.18
+2024-02-05,Preschool,East,Guardians,5,155.02,0.21,612.33
+2024-11-08,Preschool,West,Parents,13,224.89,0.3,2046.5
+2024-06-10,Daycare,East,Guardians,1,809.57,0.04,777.19
+2024-06-10,Daycare,West,Guardians,11,360.11,0.2,3168.97
+2024-06-01,Preschool,North,Guardians,12,494.43,0.14,5102.52
+2024-05-21,Preschool,West,Parents,8,785.93,0.18,5155.7
+2024-10-17,Daycare,East,Parents,8,814.65,0.12,5735.14
+2024-10-24,After School Care,North,Guardians,13,673.27,0.17,7264.58
+2024-05-12,Preschool,East,Guardians,7,734.45,0.24,3907.27
+2024-05-29,After School Care,East,Parents,20,194.83,0.05,3701.77
+2024-03-11,After School Care,East,Parents,1,368.04,0.2,294.43
+2024-10-12,Preschool,East,Guardians,1,238.58,0.15,202.79
+2024-08-19,Daycare,South,Guardians,17,478.47,0.03,7889.97
+2024-02-27,Preschool,North,Guardians,16,359.39,0.12,5060.21
+2024-07-13,After School Care,East,Guardians,18,274.48,0.17,4100.73
+2024-11-06,After School Care,West,Parents,14,975.92,0.03,13252.99
+2024-02-27,Preschool,West,Parents,8,206.48,0.09,1503.17
+2024-12-26,Daycare,West,Parents,17,969.42,0.26,12195.3
+2024-10-07,After School Care,East,Guardians,13,817.87,0.25,7974.23
+2024-08-13,Daycare,East,Guardians,5,692.42,0.05,3289.0
+2024-05-24,Preschool,East,Guardians,11,186.9,0.27,1500.81
+2024-06-30,After School Care,South,Parents,16,390.91,0.07,5816.74
+2024-08-22,After School Care,North,Parents,8,897.63,0.09,6534.75
+2024-12-13,Preschool,South,Guardians,18,313.1,0.09,5128.58
+2024-04-02,After School Care,North,Parents,10,196.35,0.22,1531.53
+2024-11-17,Preschool,West,Guardians,20,405.51,0.2,6488.16
+2024-09-27,After School Care,West,Parents,6,398.13,0.05,2269.34
+2024-10-31,After School Care,West,Parents,2,259.58,0.23,399.75
+2024-05-30,After School Care,North,Guardians,2,193.1,0.11,343.72
+2024-10-17,After School Care,North,Guardians,11,212.69,0.04,2246.01
+2024-04-11,Preschool,South,Guardians,19,366.37,0.1,6264.93
+2024-12-03,Daycare,East,Guardians,6,461.41,0.28,1993.29
+2024-06-23,After School Care,West,Guardians,5,866.55,0.16,3639.51
+2024-12-22,Daycare,West,Guardians,18,458.39,0.08,7590.94
+2024-06-26,After School Care,West,Parents,12,196.53,0.29,1674.44
+2024-06-01,Preschool,South,Parents,12,365.03,0.22,3416.68
+2024-12-13,After School Care,West,Parents,18,609.14,0.17,9100.55
+2024-06-27,Preschool,West,Parents,20,925.5,0.22,14437.8
+2024-01-30,Daycare,East,Guardians,3,686.92,0.26,1524.96
+2024-11-10,After School Care,East,Guardians,12,640.14,0.27,5607.63
+2024-01-25,Daycare,North,Parents,4,779.4,0.21,2462.9
+2024-09-20,Preschool,North,Guardians,6,347.3,0.21,1646.2
+2024-05-18,Daycare,West,Guardians,10,570.25,0.01,5645.48
+2024-06-22,Daycare,South,Guardians,11,466.19,0.14,4410.16
+2024-01-02,After School Care,North,Guardians,2,619.78,0.19,1004.04
+2024-03-31,Daycare,West,Parents,8,505.47,0.15,3437.2
+2024-11-02,After School Care,North,Guardians,1,438.39,0.2,350.71
+2024-04-16,Daycare,South,Guardians,20,140.09,0.24,2129.37
+2024-05-24,Preschool,West,Guardians,13,687.42,0.05,8489.64
+2024-08-21,After School Care,South,Parents,10,982.33,0.23,7563.94
+2024-12-24,After School Care,East,Guardians,7,849.74,0.18,4877.51
+2024-10-15,After School Care,East,Guardians,20,188.71,0.24,2868.39
+2024-01-28,Preschool,North,Guardians,18,150.29,0.1,2434.7
